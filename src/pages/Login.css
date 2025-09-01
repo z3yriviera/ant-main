@@ -22,13 +22,13 @@ html, body, #root {
 
 .formTitle {
   text-align: center;
-  color: #ff69b4 !important;
+  color: 	#ff69b4!important;
   margin-bottom: 30px;
 }
 
 .customButton {
-  background-color: #ff69b4 !important;
-  border-color: #ff69b4 !important;
+  background-color: 	#ff69b4 !important;
+  border-color: 	#ff69b4 !important;
   color: white !important;
   font-weight: bold;
 }
@@ -42,7 +42,7 @@ html, body, #root {
 
 .socialIcon {
   font-size: 28px;
-  color: #ff69b4;
+  color: 	#ff69b4;
   cursor: pointer;
   transition: transform 0.2s ease;
 }
